@@ -1,1 +1,1 @@
-Trabalho de Algoritmos e estruturas de dados, sobre árvore genealógica, para procurar determinados graus de parentesco a partir de métodos que percorrem a árvore de diferentes maneiras para achar!
+Trabalho de Algoritmos e Estruturas de Dados sobre uma árvore genealógica que facilita a busca por graus de parentesco específicos. Utilizei métodos avançados de percorrimento de árvores para identificar e relacionar diferentes membros da família de forma eficiente.
